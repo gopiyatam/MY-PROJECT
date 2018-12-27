@@ -1,25 +1,5 @@
 task
 -----
-my assignment is to get all countries currency rates of fixer application
-with endpoint and maintain that data in database using java
-and perform secduling 
-
-Prerequisites
----------------
-java 1.8
-spring sts
-maven
-mysql
-html+css
-javascript and jquery
-
-project name
--------------
-1)FxOperation
-interface:A particular advantage of using interface in Java is that it allows multiple inheritance.
-2)The full power of Interface is utilized when dependency injection techniques is used to inject required implementation on run time.
-
-
 service
 --------
 1)public void saveCurrencyData() throws Exception
